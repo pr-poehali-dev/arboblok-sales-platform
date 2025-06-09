@@ -28,7 +28,7 @@ const HeroSection = () => {
             <div className="grid grid-cols-2 gap-6">
               <div className="flex items-center space-x-3">
                 <Icon name="Award" className="h-6 w-6 text-blue-400" />
-                <span>Гарантия 2 года</span>
+                <span>Гарантия 1 год</span>
               </div>
               <div className="flex items-center space-x-3">
                 <Icon name="Truck" className="h-6 w-6 text-blue-400" />
