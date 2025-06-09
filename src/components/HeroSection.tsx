@@ -9,7 +9,10 @@ const HeroSection = () => {
           <div>
             <h1 className="text-4xl md:text-5xl font-bold mb-6 leading-tight">
               Оборудование для производства
-              <span className="text-orange-600"> арболитовых блоков</span>
+              <span className="text-orange-600 font-bold">
+                {" "}
+                арболитовых блоков
+              </span>
             </h1>
             <p className="text-xl text-gray-300 mb-8">
               Полный комплекс высокотехнологичного оборудования для эффективного
