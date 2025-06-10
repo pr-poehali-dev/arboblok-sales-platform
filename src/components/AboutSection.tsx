@@ -24,9 +24,7 @@ const AboutSection = () => {
 
             <div className="grid grid-cols-2 gap-6">
               <div className="text-center">
-                <div className="text-3xl font-bold text-blue-600 mb-2">
-                  150+
-                </div>
+                <div className="text-3xl font-bold text-blue-600 mb-2">80+</div>
                 <div className="text-sm text-gray-600">Установленных линий</div>
               </div>
               <div className="text-center">
