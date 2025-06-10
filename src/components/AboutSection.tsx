@@ -7,14 +7,14 @@ const AboutSection = () => {
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="grid md:grid-cols-2 gap-12 items-center">
           <div>
-            <h2 className="text-3xl font-bold text-gray-900 mb-6">
-              О компании АрболитПром
+            <h2 className="text-3xl mb-6 font-extrabold text-orange-600">
+              О компании ООО "ЛИГА-АРБОЛИТ"
             </h2>
             <p className="text-lg text-gray-600 mb-6">
-              Более 15 лет мы специализируемся на разработке и производстве
+              Более 35 лет мы специализируемся на разработке и производстве
               высокотехнологичного оборудования для изготовления арболитовых
-              блоков. Наша продукция успешно работает на предприятиях по всей
-              России.
+              блоков. Наше оборудование успешно работает по всей России и за
+              рубежом.{" "}
             </p>
             <p className="text-lg text-gray-600 mb-8">
               Мы предлагаем не только качественное оборудование, но и полный
