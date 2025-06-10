@@ -47,7 +47,7 @@ const HeroSection = () => {
               className="rounded-lg shadow-2xl"
             />
             <div className="absolute -bottom-6 -left-6 bg-orange-500 text-white p-4 rounded-lg">
-              <div className="text-2xl font-bold">15+</div>
+              <div className="text-2xl font-bold">35+</div>
               <div className="text-sm">лет опыта</div>
             </div>
           </div>
