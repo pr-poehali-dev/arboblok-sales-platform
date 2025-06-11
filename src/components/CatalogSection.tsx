@@ -4,7 +4,7 @@ import ProductCard from "./ProductCard";
 const CatalogSection = () => {
   const products = [
     {
-      name: "Смеситель принудительного действия СП-300",
+      name: "ЛИГА-9П полуавтомат (НОВИНКА)",
       image:
         "https://images.unsplash.com/photo-1504307651254-35680f356dfd?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
       price: "от 450 000 ₽",
