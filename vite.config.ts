@@ -19,7 +19,7 @@ export default defineConfig(({ mode }) => ({
     allowedHosts: true,
     hmr: {
       overlay: false,
-      clientPort: 443,
+      port: 443,
       host: "preview--arboblok-sales-platform.poehali.dev",
     },
   },
