@@ -8,7 +8,7 @@ const CatalogSection = () => {
       image:
         "https://images.unsplash.com/photo-1504307651254-35680f356dfd?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
       price: "от 450 000 ₽",
-      performance: "300 л/цикл",
+      performance: "15 м.куб. в смену (8 часов)",
       power: "7.5 кВт",
       features: [
         "Равномерное смешивание компонентов",
