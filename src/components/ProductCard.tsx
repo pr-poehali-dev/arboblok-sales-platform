@@ -20,7 +20,11 @@ const ProductCard = ({
 }: ProductCardProps) => {
   return (
     <div className="bg-white rounded-lg shadow-lg overflow-hidden hover:shadow-xl transition-shadow">
-      <img src={image} alt={name} className="w-full h-48 object-cover" />
+      <img
+        src="https://cdn.poehali.dev/files/3b63af2f-10d1-4372-97d2-8b3f64940dde.png"
+        alt={name}
+        className="w-full h-48 object-cover"
+      />
 
       <div className="p-6">
         <h3 className="text-xl font-bold text-gray-900 mb-2">{name}</h3>
