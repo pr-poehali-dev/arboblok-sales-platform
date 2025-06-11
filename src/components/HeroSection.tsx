@@ -46,9 +46,9 @@ const HeroSection = () => {
               alt="Производственное оборудование"
               className="rounded-lg shadow-2xl"
             />
-            <div className="absolute -bottom-6 -left-6 bg-orange-500 text-white p-4 rounded-lg">
+            <div className="absolute -bottom-6 -left-6 bg-orange-500 text-white p-4 rounded-lg px-[25px] py-[25px]">
               <div className="text-2xl font-bold">35+</div>
-              <div className="text-sm">лет опыта</div>
+              <div className="text-sm py-0 px-0">лет опыта</div>
             </div>
           </div>
         </div>
