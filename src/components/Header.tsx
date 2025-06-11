@@ -8,7 +8,7 @@ const Header = () => {
         <div className="flex justify-between items-center h-16">
           <div className="flex items-center space-x-2">
             <Icon name="Factory" className="h-8 w-8 text-blue-600" />
-            <span className="text-xl font-bold text-gray-900">
+            <span className="font-extrabold text-4xl text-amber-600 px-[5px] py-[5px]">
               ООО "ЛИГА-АРБОЛИТ"
             </span>
           </div>
