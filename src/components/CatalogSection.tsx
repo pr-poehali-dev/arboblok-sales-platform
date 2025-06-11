@@ -17,7 +17,7 @@ const CatalogSection = () => {
     {
       name: "Формовочная машина ФМ-12",
       image:
-        "https://cdn.poehali.dev/files/8ede697f-4ecd-4d1f-b4b6-21c6949f8bba.png",
+        "https://cdn.poehali.dev/files/bd9b59b4-0f8d-4da4-b56a-33a41e0d94c3.png",
       price: "от 680 000 ₽",
       performance: "12 блоков/цикл",
       power: "4 кВт",
